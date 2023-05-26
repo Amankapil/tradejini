@@ -1,0 +1,32 @@
+<svg width="335" height="304" viewBox="0 0 335 304" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1351_21686)">
+<rect width="335" height="304" rx="33.2621" fill="black" fill-opacity="0.7"/>
+<circle cx="182.177" cy="152.026" r="68.0905" stroke="white" stroke-width="1.05494"/>
+<circle cx="113.559" cy="152.026" r="28.825" stroke="white" stroke-width="1.05494"/>
+<circle cx="175.938" cy="152.025" r="64.5209" stroke="white" stroke-width="1.05494"/>
+<circle cx="169.699" cy="152.026" r="60.9513" stroke="white" stroke-width="1.05494"/>
+<circle cx="163.462" cy="152.026" r="57.3817" stroke="white" stroke-width="1.05494"/>
+<circle cx="157.224" cy="152.026" r="53.8121" stroke="white" stroke-width="1.05494"/>
+<circle cx="150.986" cy="152.025" r="50.2425" stroke="white" stroke-width="1.05494"/>
+<circle cx="144.748" cy="152.026" r="46.673" stroke="white" stroke-width="1.05494"/>
+<circle cx="138.51" cy="152.026" r="43.1034" stroke="white" stroke-width="1.05494"/>
+<circle cx="132.272" cy="152.026" r="39.5338" stroke="white" stroke-width="1.05494"/>
+<circle cx="126.035" cy="152.026" r="35.9642" stroke="white" stroke-width="1.05494"/>
+<circle cx="119.796" cy="152.026" r="32.3946" stroke="white" stroke-width="1.05494"/>
+<line x1="44.1338" y1="154.354" x2="290.866" y2="154.354" stroke="white" stroke-width="0.773672"/>
+<line x1="113.172" y1="278.107" x2="113.172" y2="31.3749" stroke="white" stroke-width="0.773672"/>
+<rect x="1" y="1" width="333" height="302" rx="32.2621" stroke="url(#paint0_linear_1351_21686)" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_b_1351_21686" x="-200" y="-200" width="735" height="704" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="100"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1351_21686"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1351_21686" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1351_21686" x1="320" y1="290" x2="28.5" y2="9.50001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#38B973"/>
+<stop offset="1" stop-color="#00FFFF"/>
+</linearGradient>
+</defs>
+</svg>
